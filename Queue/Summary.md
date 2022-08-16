@@ -6,7 +6,7 @@ Thus, an enqueue operation after removal of all the elements will result in a fu
 
 This is a disadvantage of the logic which we have considered. Dequeue algorithm can be modified to resolve this issue.
 
-====================================================================================================================================================
+===================================================================================================
 
 Queue can be used when elements don’t have to be processed immediately, but on the first come first serve basis.
 
